@@ -8,6 +8,8 @@
 - Nakuru
 - Kilifi
 - Malindi
+- Diani
+
 
 # Tanzania
 - Dodoma
@@ -19,6 +21,7 @@
 - Tanga
 - Bagamoyo
 
+
 # Uganda
 - Lwendo
 - Entebbe
@@ -26,3 +29,5 @@
 - Kampala
 - Mukono
 - Hoima
+- Tororo
+
