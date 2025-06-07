@@ -14,6 +14,8 @@
 - Nigeria
 - Mozambique
 - Lesotho
+- Congo
+- The Democratic Republic of Congo
 
 # Europe
 - Germany
@@ -23,7 +25,7 @@
 - Ukraine
 - United Kingdom
 - Belgium
-
+- Austria
 
 # Asia
 - China
@@ -35,3 +37,4 @@
 - Indonesia
 - Pakistan
 - Bangladesh
+- Kazakhstan
